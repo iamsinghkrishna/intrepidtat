@@ -1,32 +1,3 @@
-```
-# Compiled and build artifacts
-*.pyc
-__pycache__/
+Based on the provided file changes, only HTML files were deleted and there are no build artifacts, dependency directories, or temporary files in the changes. Since the changes consist solely of source files (HTML files), no additional entries need to be added to the .gitignore file.
 
-# Dependencies
-vendor/
-node_modules/
-
-# Logs and temp files
-*.log
-*.tmp
-*.swp
-
-# Environment
-.env
-.env.local
-*.env.*
-
-# Editors
-.vscode/
-.idea/
-
-# OS specific
-.DS_Store
-Thumbs.db
-
-# Backup files
-*~
-*.bak
-*.backup
-```
+(empty — output nothing)
